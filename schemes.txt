@@ -1,0 +1,20 @@
+Monochromatic:
+7f2A00: Dark Red
+FF7C3B: Light Orange
+FF5500: Orange
+7F4F37: Brown
+CC4400: Dark Orange
+
+Analogous:
+8A0DFF: Purple
+E80C5E: Pink
+FF5500: Orange
+E8B22A: Gold
+F0FF31: Yellow
+
+Complementary:
+B23B00: Dark Brown
+FF8E56: Brown
+FF5500: Orange
+00B2A6: Blue
+5FFFF4: Light Blue
